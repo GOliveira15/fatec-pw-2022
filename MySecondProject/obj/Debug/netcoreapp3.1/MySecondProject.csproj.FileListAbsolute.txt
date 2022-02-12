@@ -1,0 +1,16 @@
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\bin\Debug\netcoreapp3.1\MySecondProject.exe
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\bin\Debug\netcoreapp3.1\MySecondProject.deps.json
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\bin\Debug\netcoreapp3.1\MySecondProject.runtimeconfig.json
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\bin\Debug\netcoreapp3.1\MySecondProject.runtimeconfig.dev.json
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\bin\Debug\netcoreapp3.1\MySecondProject.dll
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\bin\Debug\netcoreapp3.1\MySecondProject.pdb
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.csproj.AssemblyReference.cache
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.Form1.resources
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.csproj.GenerateResource.cache
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.AssemblyInfoInputs.cache
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.AssemblyInfo.cs
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.csproj.CoreCompileInputs.cache
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.dll
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.pdb
+C:\Users\0220482113002\source\repos\MySecondProject\MySecondProject\obj\Debug\netcoreapp3.1\MySecondProject.genruntimeconfig.cache
