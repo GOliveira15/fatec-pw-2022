@@ -1,7 +1,0 @@
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\bin\Debug\FirstClass.exe
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.AssemblyReference.cache
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.exe
-C:\Users\0220482113002\source\repos\FirstClass\FirstClass\obj\Debug\FirstClass.pdb
