@@ -12,5 +12,28 @@ namespace Revisao.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Entrar(string usuario, string senha)
+        {
+            if((usuario == "admin" && senha == "123") || (usuario == "aluno" && senha == "aluno"))
+            {
+                return RedirectToAction("Logado");
+            }
+            else
+            {
+                return RedirectToAction("NaoLogado");
+            }
+        }
+
+        public IActionResult Logado()
+        {
+            return View();
+        }
+
+        public IActionResult NaoLogado()
+        {
+            return View();
+        }
     }
 }

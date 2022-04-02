@@ -39,3 +39,5 @@ C:\Users\0220482113002\Documents\Nova pasta\Revisao\Revisao\obj\Debug\net5.0\ref
 C:\Users\0220482113002\Documents\Nova pasta\Revisao\Revisao\obj\Debug\net5.0\Revisao.pdb
 C:\Users\0220482113002\Documents\Nova pasta\Revisao\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
 C:\Users\0220482113002\Documents\Nova pasta\Revisao\Revisao\obj\Debug\net5.0\Revisao.csproj.CopyComplete
+C:\Users\0220482113002\Documents\Nova pasta\Revisao\Revisao\obj\Debug\net5.0\Razor\Views\Login\Logado.cshtml.g.cs
+C:\Users\0220482113002\Documents\Nova pasta\Revisao\Revisao\obj\Debug\net5.0\Razor\Views\Login\NaoLogado.cshtml.g.cs
